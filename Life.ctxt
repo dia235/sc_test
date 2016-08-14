@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=infile
+comment0.target=void\ getFile(chn.util.FileInput)
+comment1.params=
+comment1.target=void\ blankGrid()
+comment2.params=x\ y
+comment2.target=boolean\ inBounds(int,\ int)
+comment3.params=x\ y
+comment3.target=int\ countNeighbors(int,\ int)
+comment4.params=x\ y
+comment4.target=boolean\ lives(int,\ int)
+comment5.params=
+comment5.target=void\ nextGeneration()
+comment6.params=
+comment6.target=void\ printGrid()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

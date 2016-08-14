@@ -1,0 +1,26 @@
+0 
+0 
+0 
+1  * Write a description of class Rolling here.
+1  * 
+1  * @Vasundhara Sengupta
+1  * @10/26/15
+1  */
+0  */
+0  */
+4  public static void main (String [] args) 
+4  {
+8  int numOfRolls = 0; //count is zero
+8  int x;
+8  int y;
+8  int z;
+8  do {
+12  numOfRolls++;
+12  x = ((int)(Math.random() * 6 +1)); //the dice 
+12  y = ((int)(Math.random() * 6 +1));
+12  z = ((int)(Math.random() * 6 +1));
+12  System.out.println(x + " " +y + " " + z); 
+8  } while (x == y || y == z || x == z);
+8  System.out.println(numOfRolls); //prints the number of rolls
+4  }
+0  }

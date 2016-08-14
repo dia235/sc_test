@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=Permutation(int)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.util.ArrayList\ nextPermutation()
+numComments=3
